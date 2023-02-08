@@ -1,0 +1,8 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "xstring": "cpp",
+        "thread": "cpp",
+        "ostream": "cpp"
+    }
+}
